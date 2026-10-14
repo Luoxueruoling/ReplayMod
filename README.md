@@ -1,3 +1,6 @@
+> **Note:** this fork records lineage only. The actual GTNH 1.7.10 compatibility work lives in
+> **https://github.com/Luoxueruoling/replaymod-gtnh-compat** — a Mixin patch layer applied to the
+> official `1.7.10-2.5.2` jar (SHA-256 `E8B0379E…A8CE96`). No upstream code is modified here.
 # ReplayMod
 A Minecraft mod to record game sessions and replay them afterwards from any perspective.
 
